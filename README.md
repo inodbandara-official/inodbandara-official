@@ -51,7 +51,7 @@ he/him they/them
 - 🎼 Melomaniac
 ---
 ### 🔥 &nbsp; My Stats : <img align="center" src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""> 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsZed0&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=inodbandara-official&theme=dark&background=000000)](https://git.io/streak-stats)
 ---
 
 ### :hammer_and_wrench: Languages and Tools : <img align="center" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
