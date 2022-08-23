@@ -55,7 +55,7 @@ he/him they/them
 ---
 
 ### :hammer_and_wrench: Languages and Tools : <img align="center" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-[<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsZed0&layout=compact">](https://github.com/anuraghazra/github-readme-stats)
+[<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inodbandara-official&layout=compact">](https://github.com/anuraghazra/github-readme-stats)
 ![Python](https://img.shields.io/badge/-Python-02a4b5?style=flat-square&logo=python&logoColor=ff0)
 ![C](https://img.shields.io/badge/-C-fdc0fd?style=flat-square&logo=C&logoColor=f0f)<div>
   <p>
