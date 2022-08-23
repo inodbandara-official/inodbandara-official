@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I'm Inod Bandara.
+### I'm Inod Bandara💩.
 <img src="https://static.neris-assets.com/images/personality-types/headers/fb/enfp-personality-type-header.png">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=inodbandara-official&show_icons=true&theme=radical">
 
 
-First Year undergrad 🎓 till '26
+First Year undergrad 🎓 till '26 👨‍🎓
 
-21 y/o ENFP-T
+😄 21 y/o 🤵ENFP-T
 
 he/him they/them
 
