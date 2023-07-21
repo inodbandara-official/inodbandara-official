@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 First Year undergrad 🎓 till '26 👨‍🎓
 
-😄 21 y/o 🤵ENFP-T
+😄 22 y/o 🤵ENFP-T
 
 he/him they/them
 
