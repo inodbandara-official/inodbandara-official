@@ -35,8 +35,8 @@ he/him they/them
 
 **Languages**   |　💬 **ENG** 　|　💬 **SIN** 
 
-**Universities**  |　[<img align="center" alt="UCSC" src="https://ugvle.ucsc.cmb.ac.lk/pluginfile.php/2/course/section/852/UCSC_logo.png?time=1654507133783" width="60" height="55">]([https://www.nibm.lk/](https://cmb.ac.lk/category/ucsc))
-[<img align="center" alt="IIT" src="https://www.iit.ac.lk/wp-content/themes/iitcampus/assets/img/logo.png" width="100" height="45">](https://www.iit.ac.lk)
+**Universities**  |　[<img align="center" alt="IIT" src="https://www.iit.ac.lk/wp-content/themes/iitcampus/assets/img/logo.png" width="100" height="45">](https://www.iit.ac.lk)
+[<img src="https://scvle.ucsc.cmb.ac.lk/pluginfile.php/2/course/section/2/UCSC_logo.png" alt="" role="presentation" class="img-responsive atto_image_button_text-top" width="80" height="84">](https://cmb.ac.lk/category/ucsc)
 
 **Living in**   |　Sri Lanka [<img align="center" src="https://www.worldatlas.com/img/flag/lk-flag.jpg" width="25" height="16" alt=":flag_lk:">](https://goo.gl/maps/PasN3aFRvVgVcGZo7)
 
