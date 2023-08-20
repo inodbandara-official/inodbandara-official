@@ -50,6 +50,9 @@ he/him they/them
 - 📚Bookworm 
 - 🎥 Cinephile - Sci-Fi/Rom-Com/Philosophy/Psychology/Horror/Thriller
 - 🎼 Melomaniac
+-           Coding is life     
+          03:03 ──⚬──── 10:45
+        ⇆   ◃◃   ıı   ▹▹   ↻
 ---
 ### 🔥 &nbsp; My Stats : <img align="center" src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""> 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=inodbandara-official&theme=dark&background=000000)](https://git.io/streak-stats)
