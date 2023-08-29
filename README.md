@@ -63,7 +63,12 @@ he/him they/them
 
 ---
 
-### 🔥 &nbsp; My Stats : <img align="center" src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""> 
+<details>
+ <summary>
+<b> 🔥 &nbsp; My Stats : </b><img align="center" src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""> 
+ </summary>
+ <br/>
+ 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=inodbandara-official&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ![Inod Bandara's GitHub stats](https://github-readme-stats.vercel.app/api?username=inodbandara-official\&rank_icon=github\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
@@ -77,6 +82,8 @@ he/him they/them
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=inodbandara-official\&repo=Github_readme_stats\&show_owner=true&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
 
 ![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d\&show_owner=true)
+
+</details>
 
 ---
 
