@@ -57,7 +57,6 @@ he/him they/them
           03:03 ──⚬──── 10:45
          ⇆   ◃◃   ıı   ▹▹   ↻
 ---
----
 ### 🎧 Spotify Playing 
 
 [![Spotify](https://novatorem-kasuncfdo.vercel.app/api/spotify)](https://open.spotify.com/user/bf0pswvybsrr4j06xglh36sl9?si=7aa78d8ce7a54b9b)
