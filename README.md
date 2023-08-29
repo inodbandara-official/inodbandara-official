@@ -57,11 +57,30 @@ he/him they/them
           03:03 ──⚬──── 10:45
          ⇆   ◃◃   ıı   ▹▹   ↻
 ---
-### 🔥 &nbsp; My Stats : <img align="center" src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""> 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=inodbandara-official&theme=dark&background=000000)](https://git.io/streak-stats)
+---
+### 🎧 Spotify Playing 
+
+[![Spotify](https://novatorem-kasuncfdo.vercel.app/api/spotify)](https://open.spotify.com/user/bf0pswvybsrr4j06xglh36sl9?si=7aa78d8ce7a54b9b)
+
 ---
 
-[<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inodbandara-official&layout=compact">](https://github.com/anuraghazra/github-readme-stats)<div>
+### 🔥 &nbsp; My Stats : <img align="center" src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""> 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=inodbandara-official&theme=dark&background=000000)](https://git.io/streak-stats)
+
+![Inod Bandara's GitHub stats](https://github-readme-stats.vercel.app/api?username=inodbandara-official\&rank_icon=github\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
+
+![Inod Bandara's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=inodbandara_official\&layout=compact\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
+
+<!-- [<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inodbandara-official&layout=compact">](https://github.com/inodbandara-official/Github_readme_stats) -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inodbandara-official\&layout=compact\&title_color=fff\&text_color=9f9f9f\&bg_color=151515)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=inodbandara-official\&repo=Github_readme_stats\&show_owner=true&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
+
+![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d\&show_owner=true)
+
+---
+
 ### :hammer_and_wrench: Languages and Tools : <img align="center" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
   <p>
