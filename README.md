@@ -73,15 +73,15 @@ he/him they/them
 
 ![Inod Bandara's GitHub stats](https://github-readme-stats.vercel.app/api?username=inodbandara-official\&rank_icon=github\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
 
-![Inod Bandara's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=inodbandara_official\&layout=compact\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
-
 <!-- [<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inodbandara-official&layout=compact">](https://github.com/inodbandara-official/Github_readme_stats) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inodbandara-official\&layout=compact\&title_color=fff\&text_color=9f9f9f\&bg_color=151515)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=inodbandara-official\&repo=inodbandara-official\&show_owner=false&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=inodbandara-official\&repo=Github_readme_stats\&show_owner=false&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
 
- <!-- ![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d\&show_owner=false) -->
+ <!-- ![Inod Bandara's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=inodbandara_official\&layout=compact\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
+
+![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d\&show_owner=false) -->
 
 </details>
 
