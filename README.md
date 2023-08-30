@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### I'm Inod Bandara💩.
 <img src="https://static.neris-assets.com/images/personality-types/headers/fb/enfp-personality-type-header.png">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=inodbandara-official&show_icons=true&theme=radical">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=inodbandara-official&show_icons=true&theme=dark">
 
 
 First Year undergrad 🎓 till '26 👨‍🎓
@@ -65,7 +65,7 @@ he/him they/them
 
 <details>
  <summary>
-<b> 🔥 &nbsp; My Stats : </b><img align="center" src="https://komarev.com/ghpvc/?username=inodbandara-official&style=flat-square&color=blue" alt=""> 
+<b> 🔥 &nbsp; My Stats : </b><img align="center" src="https://komarev.com/ghpvc/?username=inodbandara-official&style=flat-square&color=blue" alt=""> <br/>
  </summary>
  <br/>
  
