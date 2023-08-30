@@ -65,7 +65,7 @@ he/him they/them
 
 <details>
  <summary>
-<b> 🔥 &nbsp; My Stats : </b><img align="center" src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""> 
+<b> 🔥 &nbsp; My Stats : </b><img align="center" src="https://komarev.com/ghpvc/?username=inodbandara-official&style=flat-square&color=blue" alt=""> 
  </summary>
  <br/>
  
