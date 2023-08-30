@@ -79,7 +79,7 @@ he/him they/them
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inodbandara-official\&layout=compact\&title_color=fff\&text_color=9f9f9f\&bg_color=151515)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=inodbandara-official\&repo=inodbandara-official\&show_owner=false&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=inodbandara-official\&repo=Github_readme_stats\&show_owner=false&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
 
  <!-- ![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d\&show_owner=false) -->
 
