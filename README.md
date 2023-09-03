@@ -16,8 +16,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 ### I'm Inod Bandara💩.
+
+---
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=white&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+a+Web+Developer+👨‍💻;A+Quick+Learner/+Researcher+📖;I+Love+to+learn+new+stuffs..+🧩" ></a>
+</p>
+
+---
 <img src="https://static.neris-assets.com/images/personality-types/headers/fb/enfp-personality-type-header.png">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=inodbandara-official&show_icons=true&theme=dark">
 
