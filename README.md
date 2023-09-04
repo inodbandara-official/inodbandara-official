@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ---
 <p>
-  <a href="https://github.com/inodbandara-official/Github-readme-typing"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=white&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+a+Web+Developer+👨‍💻;A+Quick+Learner/+Researcher+📖;I+Love+to+learn+new+stuffs..+🧩" ></a>
+  <a href="https://github.com/inodbandara-official/inodbandara-official"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=white&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+a+Web+Developer+👨‍💻;A+Quick+Learner/+Researcher+📖;I+Love+to+learn+new+stuffs..+🧩" ></a>
 </p>
 
 ---
