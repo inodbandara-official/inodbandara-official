@@ -95,7 +95,7 @@ he/him they/them
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=inodbandara-official\&repo=inodbandara-official\&show_owner=false&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=inodbandara-official&title=Commits,Followers,Repositories,PullRequest&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=inodbandara-official&title=Commits,Followers,Repositories,Stars,PullRequest&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 <!-- Stars, Issues, Reviews -->
 
 </details>
