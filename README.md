@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 ---
 <img src="https://static.neris-assets.com/images/personality-types/headers/fb/enfp-personality-type-header.png">
+<img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=inodbandara-official&show_icons=true&theme=dark">
 
 
